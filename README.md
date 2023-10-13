@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yue Wu</h1>
+<h1 align="center">Hi 👋, I'm Yue (Elsie) Wu</h1>
 <h3 align="center">I am currently a CS student at NYU</h3>
 
 - 📫 How to reach me **wuyue403@gmail.com**
