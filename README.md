@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **wuyue403@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wuyue403/](https://www.linkedin.com/in/wuyue403/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/wuyue/](https://www.linkedin.com/in/wuyue/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
