@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yue (Elsie) Wu</h1>
-<h3 align="center">Computer Science Major at NYU and UCSD actively seeking SDE Intern Oppotunities</h3>
+<h3 align="center">Computer Science Major at NYU and UCSD actively seeking 2025 SDE Intern Oppotunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiiiinx&label=Profile%20views&color=0e75b6&style=flat" alt="wiiiinx" /> </p>
 
-- 🔭 I’m currently seeking **Software Engineer Intern**
+- 🔭 I’m currently seeking **Software Engineer Intern Summer 2025**
 
-- 🌱 I’m currently learning **Computer Networks**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://wuyue403.vercel.app/](https://wuyue403.vercel.app/)
 
