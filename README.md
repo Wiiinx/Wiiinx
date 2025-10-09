@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://wuyue.vercel.app/index.html/](https://wuyue.vercel.app/index.html/)
+- 👨‍💻 All of my projects are available at [https://wuyue.vercel.app/](https://wuyue.vercel.app/)
 
 - 📫 How to reach me **wuyue403@gmail.com**
 
